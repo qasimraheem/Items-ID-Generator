@@ -1,0 +1,51 @@
+﻿S NO,NAME,QUANTITY,LOCATOIN,AVAILABLE,TYPE
+1,carpet,1,OFFICE,YES,furniture
+2,sofa bad,2,OFFICE,YES,furniture
+3,color sofa,8,OFFICE,YES,furniture
+4,wood round table,3,1 ofc,yes+basmint,furniture
+5,white tables,5,OFFICE,YES,furniture
+6,red chairs,5,3ofc+2ideofusion,YES,furniture
+7,green chairs,8,5ofc+2ideo+1owais bi,YES,furniture
+8,meeting chairs,8,basmint,no,furniture
+9,kitchen chairs,8,basmint,no,furniture
+10,glass pc desk,1,OFFICE,YES,furniture
+11,cameras,3,OFFICE,YES,camera
+12,prompter,1,OFFICE,YES,camera
+13,tripods camera,5,OFFICE,YES,camera
+14,silver tripods,5,OFFICE,YES,camera
+15,black light tripod,5,OFFICE,YES,camera
+16,camera plates,3,OFFICE,YES,camera
+17,mikes,4,OFFICE,YES,camera
+18,zoom,1,OFFICE,YES,camera
+19,mics stands,2,OFFICE,YES,camera
+20,cameras batteries,6,OFFICE,YES,camera
+21,black magic,1,OFFICE,YES,camera
+22,shogun inferno,1,OFFICE,YES,camera
+23,hdmi sipliter,1,OFFICE,YES,camera
+24,yamaha mixing console,1,OFFICE,YES,camera
+25,hdmi 4k spliter,1,OFFICE,YES,camera
+26,macbook pro,2,OFFICE,YES,computer
+27,wacom,1,OFFICE,YES,computer
+28,i mac pro,5,4 ofc 1 ideofusion,YES,computer
+29,mac mini,2,1 home 1 ofc,no,computer
+30,tcl lcd,10,OFFICE,YES,computer
+31,speaker,1,OFFICE,YES,computer
+32,printer,2,OFFICE,YES,computer
+33,steamer,1,OFFICE,YES,electronics
+34,fly killer,1,OFFICE,YES,electronics
+35,bloor,1,OFFICE,YES,electronics
+36,hi look receiver,1,OFFICE,YES,electronics
+37,hand dryers,2,OFFICE,YES,electronics
+38,thumb print scaner,1,OFFICE,YES,electronics
+39,fridge,1,OFFICE,YES,electronics
+40,dispancer,1,OFFICE,YES,electronics
+41,stand airconditioner,2,OFFICE,YES,electronics
+42,split airconditioner,2,OFFICE,YES,electronics
+43,stand fan ,1,OFFICE,YES,electronics
+44,water boiler,1,OFFICE,YES,electronics
+45,microwave oven,1,OFFICE,YES,electronics
+46,emergency lights,3,OFFICE,YES,lights
+47,disco light cantroler,1,OFFICE,YES,lights
+48,disco lights,16,OFFICE,YES,lights
+49,led lights big,4,OFFICE,YES,lights
+50,yellow spot lights,4,OFFICE,YES,lights
